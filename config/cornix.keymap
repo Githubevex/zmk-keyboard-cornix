@@ -212,7 +212,7 @@
             bindings = <
 &trans  &kp NUMBER_1      &kp NUMBER_2      &kp NUMBER_3      &kp NUMBER_4      &kp NUMBER_5                      &kp NUMBER_6      &kp NUMBER_7      &kp NUMBER_8      &kp NUMBER_9      &kp NUMBER_0      &trans
 &trans  &kp LS(NUMBER_1)  &kp LS(NUMBER_2)  &kp LS(NUMBER_3)  &kp LS(NUMBER_4)  &kp LS(NUMBER_5)                  &kp RS(NUMBER_6)  &kp RS(NUMBER_7)  &kp RS(NUMBER_8)  &kp RS(NUMBER_9)  &kp RS(NUMBER_0)  &trans
-&trans  &trans            &trans            &kp F7            &kp F9            &trans            &trans  &trans  &trans            &trans            &trans            &trans            &trans            &trans
+&trans  &trans            &trans            &kp F7            &kp F9            &trans            &trans  &trans  &trans            &trans            &kp MINUS         &trans            &kp INT1          &trans
 &none   &none             &to 3             &trans            &trans            &trans                            &kp BACKSPACE     &kp DEL           &kp INT_MUHENKAN  &none             &none             &none
             >;
 
