@@ -210,10 +210,10 @@
             //               | GUI | ALT  | CTRL | LOWER|  ENTER |  | SPACE | RAISE| CTRL  | ALT   | GUI  |
 
             bindings = <
-&trans      &kp NUMBER_1      &kp NUMBER_2      &kp NUMBER_3      &kp NUMBER_4      &kp NUMBER_5                      &kp NUMBER_6      &kp NUMBER_7      &kp NUMBER_8      &kp NUMBER_9      &kp NUMBER_0      &trans
-&trans      &kp LS(NUMBER_1)  &kp LS(NUMBER_2)  &kp LS(NUMBER_3)  &kp LS(NUMBER_4)  &kp LS(NUMBER_5)                  &kp RS(NUMBER_6)  &kp RS(NUMBER_7)  &kp RS(NUMBER_8)  &kp RS(NUMBER_9)  &kp RS(NUMBER_0)  &trans
-&bt BT_CLR  &bt BT_SEL 0      &bt BT_SEL 1      &kp F7            &kp F9            &trans            &trans  &trans  &trans            &trans            &kp MINUS         &trans            &kp INT1          &trans
-&none       &none             &to 3             &trans            &trans            &trans                            &kp BACKSPACE     &kp DEL           &kp INT_MUHENKAN  &none             &none             &none
+&trans      &kp NUMBER_1      &kp NUMBER_2      &kp NUMBER_3      &kp NUMBER_4      &kp NUMBER_5                      &kp NUMBER_6       &kp NUMBER_7      &kp NUMBER_8      &kp NUMBER_9      &kp NUMBER_0      &trans
+&trans      &kp LS(NUMBER_1)  &kp LS(NUMBER_2)  &kp LS(NUMBER_3)  &kp LS(NUMBER_4)  &kp LS(NUMBER_5)                  &kp RS(NUMBER_6)   &kp RS(NUMBER_7)  &kp RS(NUMBER_8)  &kp RS(NUMBER_9)  &kp RS(NUMBER_0)  &kp LS(NUHS)
+&bt BT_CLR  &bt BT_SEL 0      &bt BT_SEL 1      &kp F7            &kp F9            &trans            &trans  &trans  &kp RIGHT_BRACKET  &kp BACKSLASH     &kp MINUS         &trans            &kp INT1          &trans
+&none       &none             &to 3             &trans            &trans            &trans                            &kp BACKSPACE      &kp DEL           &kp INT_MUHENKAN  &none             &none             &none
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
