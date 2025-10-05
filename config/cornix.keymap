@@ -55,7 +55,7 @@
 
             flavor = "balanced";
             tapping-term-ms = <HM_TAPPING_TERM>;
-            quick-tap-ms = <200>;                // repeat on tap-into-hold
+            quick-tap-ms = <160>;                // repeat on tap-into-hold
             require-prior-idle-ms = <HM_PRIOR_IDLE>;
             hold-trigger-key-positions = <KEYS_R KEYS_T>;
             hold-trigger-on-release;
@@ -68,7 +68,7 @@
 
             flavor = "balanced";
             tapping-term-ms = <HM_TAPPING_TERM>;
-            quick-tap-ms = <200>;
+            quick-tap-ms = <160>;
             require-prior-idle-ms = <HM_PRIOR_IDLE>;
             hold-trigger-key-positions = <KEYS_L KEYS_T>;
             hold-trigger-on-release;
