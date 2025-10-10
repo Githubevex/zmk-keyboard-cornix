@@ -242,8 +242,8 @@
 
             bindings = <
 &kp LS(ESC)    &none       &kp HOME      &kp BACKSPACE  &kp END       &kp LC(Z)                  &none  &none  &none  &none  &none  &none
-&kp ENTER      &none       &kp UP_ARROW  &kp LC(B)      &kp DOWN      &kp LS(Z)                  &none  &none  &none  &none  &none  &none
-&kp LSHFT      &none       &kp LC(H)     &kp LC(R)      &kp LC(C)     &kp LC(V)  &trans  &trans  &none  &none  &none  &none  &none  &none
+&kp ENTER      &kp LC(R)   &kp UP_ARROW  &kp LC(B)      &kp DOWN      &kp LS(Z)                  &none  &none  &none  &none  &none  &none
+&kp LSHFT      &none       &kp LC(H)     &kp C          &kp LC(C)     &kp LC(V)  &trans  &trans  &none  &none  &none  &none  &none  &none
 &kp BACKSPACE  &kp DELETE  &to 0         &kp LCTRL      &kp LEFT_ALT  &kp SPACE                  &none  &none  &none  &none  &none  &none
             >;
 
