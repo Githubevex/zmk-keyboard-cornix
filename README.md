@@ -2,9 +2,12 @@
 
 This community firmwarw has been tested with Cornix using ZMK and provides full split-role configuration, battery power management, and Bluetooth central/peripheral setup per ZMK split guidelines 
 
+<img src="keymap-drawer/cornix.svg" >
 
 ![image](images/cornix_with_dongle.png)
 ![image](images/cornix_layout.png)
+
+
 
 ## TODO LIST
 
