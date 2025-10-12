@@ -135,21 +135,9 @@
     combos {
         compatible = "zmk,combos";
 
-        cb_ltm {
-            bindings = <&kp ESC>;
-            key-positions = <2 4>;
-            layers = <0 1>;
-        };
-
-        cb_lm {
-            bindings = <&kp TAB>;
-            key-positions = <14 16>;
-            layers = <0 1>;
-        };
-
         cb_enter {
             bindings = <&kp RET>;
-            key-positions = <14 16>;
+            key-positions = <28 29>;
             layers = <0 1>;
         };
 
