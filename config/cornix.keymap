@@ -191,7 +191,7 @@
 &trans  &kp NUMBER_1      &kp NUMBER_2      &kp NUMBER_3      &kp NUMBER_4      &kp NUMBER_5                      &kp NUMBER_6           &kp NUMBER_7       &kp NUMBER_8      &kp NUMBER_9      &kp NUMBER_0      &kp RIGHT_BRACKET
 &trans  &kp LS(NUMBER_1)  &kp LS(NUMBER_2)  &kp LS(NUMBER_3)  &kp LS(NUMBER_4)  &kp LS(NUMBER_5)                  &kp RS(NUMBER_6)       &kp RS(NUMBER_7)   &kp RS(NUMBER_8)  &kp RS(NUMBER_9)  &kp RS(NUMBER_0)  &kp NUHS
 &trans  &none             &none             &kp F7            &kp F9            &trans            &trans  &trans  &kp LS(RIGHT_BRACKET)  &kp LS(BACKSLASH)  &kp MINUS         &kp EQUAL         &kp INT3          &none
-&none   &none             &none             &to 3             &trans            &trans                            &kp BACKSPACE          &kp DEL            &kp INT_MUHENKAN  &none             &none             &none
+&none   &none             &none             &none             &trans            &trans                            &kp BACKSPACE          &kp DEL            &kp INT_MUHENKAN  &none             &none             &none
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
