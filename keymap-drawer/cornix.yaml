@@ -93,7 +93,7 @@ layers:
   - ''
   - ''
   - ''
-  - {t: MVEdit, h: toggle}
+  - ''
   - {type: held}
   - {t: ▽, type: trans}
   - BACKSPACE

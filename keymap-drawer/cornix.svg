@@ -527,9 +527,6 @@ path.combo {
 </g>
 <g transform="translate(224, 231)" class="key keypos-41">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<a href="#MVEdit">
-<text x="0" y="0" class="key tap layer-activator">MVEdit</text>
-</a><text x="0" y="24" class="key hold">toggle</text>
 </g>
 <g transform="translate(286, 236) rotate(11.93)" class="key held keypos-42">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key held"/>
