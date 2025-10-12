@@ -1,0 +1,424 @@
+layout: {zmk_keyboard: cornix}
+layers:
+  Main:
+  - TAB
+  - Q
+  - W
+  - E
+  - R
+  - T
+  - Y
+  - U
+  - I
+  - O
+  - P
+  - '['
+  - CAPS
+  - A
+  - S
+  - {t: D, h: LSHFT}
+  - {t: F, h: Mouse}
+  - G
+  - H
+  - J
+  - {t: K, h: RSHFT}
+  - L
+  - ;
+  - ''''
+  - LSHFT
+  - Z
+  - X
+  - C
+  - V
+  - B
+  - Alt+F4
+  - MUTE
+  - N
+  - M
+  - ','
+  - .
+  - /
+  - INT RO
+  - LCTRL
+  - LEFT WIN
+  - LEFT ALT
+  - Function
+  - Second
+  - SPACE
+  - {t: ENTER, h: KeyPad}
+  - SPACE
+  - {t: '`', h: RIGHT SHIFT}
+  - LEFT
+  - {t: DOWN, h: Mouse}
+  - RIGHT
+  Second:
+  - {t: ▽, type: trans}
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - ']'
+  - {t: ▽, type: trans}
+  - Sft+1
+  - Sft+2
+  - Sft+3
+  - Sft+4
+  - Sft+5
+  - Sft+6
+  - Sft+7
+  - Sft+8
+  - Sft+9
+  - Sft+0
+  - '#'
+  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - F7
+  - F9
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - Sft+]
+  - Sft+\
+  - '-'
+  - '='
+  - INT3
+  - ''
+  - ''
+  - ''
+  - ''
+  - {t: MVEdit, h: toggle}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - BACKSPACE
+  - DEL
+  - INT MUHENKAN
+  - ''
+  - ''
+  - ''
+  Function:
+  - ESC
+  - ''
+  - F2
+  - F3
+  - F4
+  - F5
+  - PAGE UP
+  - HOME
+  - UP ARROW
+  - END
+  - ''
+  - ''
+  - {t: ▽, type: trans}
+  - F6
+  - F7
+  - F8
+  - F9
+  - F10
+  - PAGE DOWN
+  - LEFT
+  - DOWN
+  - RIGHT
+  - ENTER
+  - ''
+  - {t: ▽, type: trans}
+  - F11
+  - F12
+  - Alt+F4
+  - Ctl+Z
+  - Sft+Gui+S
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - INT MUHENKAN
+  - INT KANA
+  - BACKSPACE
+  - DEL
+  - ''
+  - ''
+  - {t: ▽, type: trans}
+  - ''
+  - Gui+E
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ''
+  - {t: ▽, type: trans}
+  - INT MUHENKAN
+  - ''
+  - ''
+  - ''
+  MVEdit:
+  - Sft+ESC
+  - ''
+  - HOME
+  - BACKSPACE
+  - END
+  - Ctl+Z
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ENTER
+  - Ctl+R
+  - UP ARROW
+  - Ctl+B
+  - DOWN
+  - Sft+Z
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - LSHFT
+  - ''
+  - Ctl+H
+  - C
+  - Ctl+C
+  - Ctl+V
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - BACKSPACE
+  - DELETE
+  - {t: Main, h: toggle}
+  - LCTRL
+  - LEFT ALT
+  - SPACE
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  Mouse:
+  - ''
+  - {t: BT, h: '0'}
+  - {t: BT, h: '1'}
+  - {t: BT, h: '2'}
+  - ''
+  - BT CLR
+  - ''
+  - '&mkp LCLK'
+  - '&mmv MOVE_UP'
+  - '&mkp RCLK'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - {type: held}
+  - BT CLR ALL
+  - ''
+  - '&mmv MOVE_LEFT'
+  - '&mmv MOVE_DOWN'
+  - '&mmv MOVE_RIGHT'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - '&mkp MCLK'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '4'
+  - ''
+  - ''
+  - ''
+  KeyPad:
+  - ''
+  - {t: BT, h: '0'}
+  - {t: BT, h: '1'}
+  - {t: BT, h: '2'}
+  - ''
+  - BT CLR
+  - KP PLUS
+  - KP 7
+  - KP 8
+  - KP 9
+  - KP MULTIPLY
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - KP MINUS
+  - KP 4
+  - KP 5
+  - KP 6
+  - KP DIVIDE
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - KP 0
+  - KP 1
+  - KP 2
+  - KP 3
+  - KP DOT
+  - ''
+  - ''
+  - ''
+  - ''
+  - Main
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  '6':
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  '7':
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+combos:
+- p: [2, 4]
+  k: ESC
+  l: [Main, Second]
+- p: [14, 16]
+  k: TAB
+  l: [Main, Second]
+- p: [14, 16]
+  k: RET
+  l: [Main, Second]
+- p: [4, 3]
+  k: {t: Main, h: toggle}
+- p: [15, 16]
+  k: {t: MVEdit, h: toggle}
