@@ -345,30 +345,16 @@ path.combo {
 <text x="0" y="0" class="key tap">RIGHT</text>
 </g>
 <g class="combo combopos-0">
-<path d="M196,42 l-37,0" class="combo"/>
-<path d="M196,42 l37,0" class="combo"/>
-<rect rx="6" ry="6" x="182" y="29" width="28" height="26" class="combo"/>
-<text x="196" y="42" class="combo tap">ESC</text>
+<rect rx="6" ry="6" x="266" y="149" width="28" height="26" class="combo"/>
+<text x="280" y="162" class="combo tap">RET</text>
 </g>
 <g class="combo combopos-1">
-<path d="M196,98 l-37,0" class="combo"/>
-<path d="M196,98 l37,0" class="combo"/>
-<rect rx="6" ry="6" x="182" y="85" width="28" height="26" class="combo"/>
-<text x="196" y="98" class="combo tap">TAB</text>
-</g>
-<g class="combo combopos-2">
-<path d="M196,98 l-37,0" class="combo"/>
-<path d="M196,98 l37,0" class="combo"/>
-<rect rx="6" ry="6" x="182" y="85" width="28" height="26" class="combo"/>
-<text x="196" y="98" class="combo tap">RET</text>
-</g>
-<g class="combo combopos-3">
 <rect rx="6" ry="6" x="210" y="22" width="28" height="26" class="combo"/>
 <a href="#Main">
 <text x="224" y="35" class="combo tap layer-activator">Main</text>
 </a><text x="224" y="46" class="combo hold">toggle</text>
 </g>
-<g class="combo combopos-4">
+<g class="combo combopos-2">
 <rect rx="6" ry="6" x="210" y="78" width="28" height="26" class="combo"/>
 <a href="#MVEdit">
 <text x="224" y="91" class="combo tap layer-activator">MVEdit</text>
@@ -576,30 +562,16 @@ path.combo {
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 </g>
 <g class="combo combopos-0">
-<path d="M196,42 l-37,0" class="combo"/>
-<path d="M196,42 l37,0" class="combo"/>
-<rect rx="6" ry="6" x="182" y="29" width="28" height="26" class="combo"/>
-<text x="196" y="42" class="combo tap">ESC</text>
+<rect rx="6" ry="6" x="266" y="149" width="28" height="26" class="combo"/>
+<text x="280" y="162" class="combo tap">RET</text>
 </g>
 <g class="combo combopos-1">
-<path d="M196,98 l-37,0" class="combo"/>
-<path d="M196,98 l37,0" class="combo"/>
-<rect rx="6" ry="6" x="182" y="85" width="28" height="26" class="combo"/>
-<text x="196" y="98" class="combo tap">TAB</text>
-</g>
-<g class="combo combopos-2">
-<path d="M196,98 l-37,0" class="combo"/>
-<path d="M196,98 l37,0" class="combo"/>
-<rect rx="6" ry="6" x="182" y="85" width="28" height="26" class="combo"/>
-<text x="196" y="98" class="combo tap">RET</text>
-</g>
-<g class="combo combopos-3">
 <rect rx="6" ry="6" x="210" y="22" width="28" height="26" class="combo"/>
 <a href="#Main">
 <text x="224" y="35" class="combo tap layer-activator">Main</text>
 </a><text x="224" y="46" class="combo hold">toggle</text>
 </g>
-<g class="combo combopos-4">
+<g class="combo combopos-2">
 <rect rx="6" ry="6" x="210" y="78" width="28" height="26" class="combo"/>
 <a href="#MVEdit">
 <text x="224" y="91" class="combo tap layer-activator">MVEdit</text>

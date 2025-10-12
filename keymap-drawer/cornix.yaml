@@ -409,13 +409,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
 combos:
-- p: [2, 4]
-  k: ESC
-  l: [Main, Second]
-- p: [14, 16]
-  k: TAB
-  l: [Main, Second]
-- p: [14, 16]
+- p: [28, 29]
   k: RET
   l: [Main, Second]
 - p: [4, 3]
