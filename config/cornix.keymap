@@ -278,10 +278,10 @@
 
         layer_6 {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans                          &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans                          &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &kt KP_NUMBER_6  &none  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans                          &trans  &trans  &trans  &trans  &to 0   &trans
+&trans          &trans        &trans        &trans  &trans  &trans                 &trans  &trans  &trans  &trans  &trans  &trans
+&trans          &trans        &trans        &trans  &trans  &trans                 &trans  &trans  &trans  &trans  &trans  &trans
+&kp LEFT_SHIFT  &kp MINUS     &kp V         &kp F   &kp B   &kp C   &none  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&kp LCTRL       &kp LEFT_GUI  &kp LEFT_ALT  &trans  &trans  &trans                 &trans  &trans  &trans  &trans  &to 0   &trans
             >;
         };
 
