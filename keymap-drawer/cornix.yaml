@@ -49,7 +49,7 @@ layers:
   - SPACE
   - {t: '`', h: RIGHT SHIFT}
   - LEFT
-  - {t: DOWN, h: Mouse}
+  - ''
   - RIGHT
   Second:
   - {t: ▽, type: trans}
@@ -220,7 +220,7 @@ layers:
   - ''
   - ''
   - ''
-  - ''
+  - ESC
   - {type: held}
   - BT CLR ALL
   - ''
@@ -337,6 +337,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - KP 6
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -354,8 +355,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {t: Main, h: toggle}
   - {t: ▽, type: trans}
   '7':
   - {t: ▽, type: trans}
