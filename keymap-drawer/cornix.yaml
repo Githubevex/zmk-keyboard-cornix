@@ -309,27 +309,27 @@ layers:
   '6':
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - G
+  - W
+  - D
+  - LEFT
+  - RIGHT
+  - BACKSPACE
+  - .
+  - R
+  - '='
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - INT1
+  - ''''
+  - S
+  - T
+  - Sft+Z
+  - H
+  - '3'
+  - E
+  - '4'
+  - '5'
   - {t: ▽, type: trans}
   - LEFT SHIFT
   - '-'
