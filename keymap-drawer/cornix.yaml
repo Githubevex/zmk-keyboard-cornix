@@ -49,7 +49,7 @@ layers:
   - SPACE
   - {t: '`', h: RIGHT SHIFT}
   - LEFT
-  - ''
+  - '&Naginata'
   - RIGHT
   Second:
   - {t: ▽, type: trans}

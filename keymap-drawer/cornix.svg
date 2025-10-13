@@ -336,6 +336,7 @@ path.combo {
 </g>
 <g transform="translate(728, 227)" class="key keypos-48">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
+<text x="0" y="0" class="key tap"><tspan style="font-size: 78%">&amp;Naginata</tspan></text>
 </g>
 <g transform="translate(784, 227)" class="key keypos-49">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
