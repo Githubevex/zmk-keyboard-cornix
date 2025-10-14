@@ -14,7 +14,7 @@ layers:
   - P
   - '['
   - CAPS
-  - A
+  - {t: "A\nあ"}
   - S
   - {t: D, h: LSHFT}
   - {t: F, h: Mouse}
