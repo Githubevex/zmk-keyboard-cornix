@@ -386,12 +386,12 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - Sft+0
-  - {t: ▽, type: trans}
+  - Sft+,
   - N
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '6'
-  - ']'
+  - Sft+.
   - '#'
   - '0'
   - {t: ▽, type: trans}
