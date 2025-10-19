@@ -318,7 +318,7 @@ layers:
   - .
   - R
   - '='
-  - {t: ▽, type: trans}
+  - '['
   - {t: ▽, type: trans}
   - INT1
   - ''''
@@ -330,7 +330,7 @@ layers:
   - E
   - '4'
   - INT3
-  - {t: ▽, type: trans}
+  - ']'
   - LEFT SHIFT
   - '-'
   - V
