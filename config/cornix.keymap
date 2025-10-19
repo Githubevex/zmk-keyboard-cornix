@@ -289,7 +289,7 @@
 &trans          &trans        &kp G         &kp W   &kp D  &kp LEFT                  &kp RIGHT  &kp BACKSPACE  &kp DOT  &kp R         &kp EQUAL  &trans
 &trans          &kp INT1      &kp SQT       &kp S   &kp T  &kp LS(Z)                 &kp H      &kp N3         &kp E    &kp NUMBER_4  &kp INT3   &trans
 &kp LEFT_SHIFT  &kp MINUS     &kp V         &kp F   &kp B  &kp C      &none  &trans  &kp Q      &kp U          &kp Y    &kp O         &kp SEMI   &trans
-&kp LCTRL       &kp LEFT_GUI  &kp LEFT_ALT  &trans  &mo 7  &trans                    &trans     &mo 7          &trans   &trans        &to 0      &trans
+&kp LCTRL       &kp LEFT_GUI  &kp LEFT_ALT  &trans  &mo 7  &kp SPACE                 &kp ENTER  &lt 7 SPACE    &trans   &trans        &to 0      &trans
             >;
         };
 
