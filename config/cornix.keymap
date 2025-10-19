@@ -7,10 +7,6 @@
 #include "zmk-helpers/helper.h"
 #include "includes/cornix54.h"
 
-// 2025/10/19 Naginata Added
-
-#include <behaviors/naginata.dtsi>
-
 // tap windows for ctl alt and gui
 
 #define HM_TAPPING_TERM 250
@@ -41,6 +37,9 @@
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/pointing.h>
+
+// 2025/10/19 Naginata Added
+#include <behaviors/naginata.dtsi>
 
 &lt {
     tapping-term-ms = <180>;
