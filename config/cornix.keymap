@@ -156,10 +156,17 @@
         };
 
         combo_ng_on {
-            bindings = <&to 6>;
-            key-positions = <18 19>;
             timeout-ms = <300>;
+            key-positions = <18 19>;
+            bindings = <&ng_on>;
             layers = <0>;
+        };
+
+        combo_ng_off {
+            timeout-ms = <300>;
+            key-positions = <11 11>;
+            bindings = <&ng_off>;
+            layers = <0 6>;
         };
     };
 
