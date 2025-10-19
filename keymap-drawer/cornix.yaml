@@ -372,7 +372,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - P
-  - /
+  - N
   - I
   - J
   - A
@@ -387,7 +387,7 @@ layers:
   - {t: ▽, type: trans}
   - Sft+0
   - Sft+,
-  - N
+  - /
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '6'
