@@ -6,8 +6,6 @@ manifest:
       url-base: https://github.com/hitsmaxft
     - name: urob
       url-base: https://github.com/urob
-    - name: eswai # Naginata
-      url-base: https://github.com/eswai  
   projects:
     - name: zmk
       remote: zmkfirmware
@@ -27,8 +25,5 @@ manifest:
       remote: hitsmaxft
       revision: main
       clone-depth: 1
-    - name: zmk-naginata # Naginata
-      remote: eswai
-      revision: main
   self:
     path: config
