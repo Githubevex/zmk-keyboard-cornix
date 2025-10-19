@@ -1598,18 +1598,19 @@ path.combo {
 <a href="#Nagi2">
 <text x="0" y="0" class="key tap layer-activator">Nagi2</text>
 </a></g>
-<g transform="translate(345, 257) rotate(23.0)" class="key trans keypos-43">
-<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
-<text x="0" y="0" class="key trans tap">▽</text>
+<g transform="translate(345, 257) rotate(23.0)" class="key keypos-43">
+<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
+<text x="0" y="0" class="key tap">SPACE</text>
 </g>
-<g transform="translate(467, 256) rotate(-23.0)" class="key trans keypos-44">
-<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
-<text x="0" y="0" class="key trans tap">▽</text>
+<g transform="translate(467, 256) rotate(-23.0)" class="key keypos-44">
+<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
+<text x="0" y="0" class="key tap">ENTER</text>
 </g>
 <g transform="translate(526, 236) rotate(-11.93)" class="key keypos-45">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
+<text x="0" y="0" class="key tap">SPACE</text>
 <a href="#Nagi2">
-<text x="0" y="0" class="key tap layer-activator">Nagi2</text>
+<text x="0" y="24" class="key hold layer-activator">Nagi2</text>
 </a></g>
 <g transform="translate(588, 231)" class="key trans keypos-46">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>

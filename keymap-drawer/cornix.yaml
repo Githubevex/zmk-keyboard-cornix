@@ -350,9 +350,9 @@ layers:
   - LEFT ALT
   - {t: ▽, type: trans}
   - Nagi2
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - Nagi2
+  - SPACE
+  - ENTER
+  - {t: SPACE, h: Nagi2}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: Main, h: toggle}
