@@ -417,5 +417,8 @@ combos:
 - p: [15, 16]
   k: {t: MVEdit, h: toggle}
 - p: [18, 19]
-  k: {t: Nagi1, h: toggle}
+  k: '&ng_on'
   l: [Main]
+- p: [11, 11]
+  k: '&ng_off'
+  l: [Main, Nagi1]

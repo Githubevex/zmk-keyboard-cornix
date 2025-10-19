@@ -360,9 +360,11 @@ path.combo {
 </g>
 <g class="combo combopos-3">
 <rect rx="6" ry="6" x="518" y="93" width="28" height="26" class="combo"/>
-<a href="#Nagi1">
-<text x="532" y="106" class="combo tap layer-activator">Nagi1</text>
-</a><text x="532" y="117" class="combo hold">toggle</text>
+<text x="532" y="106" class="combo tap">&amp;ng_on</text>
+</g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="770" y="43" width="28" height="26" class="combo"/>
+<text x="784" y="56" class="combo tap">&amp;ng_off</text>
 </g>
 </g>
 </g>
@@ -1647,6 +1649,10 @@ path.combo {
 <a href="#MVEdit">
 <text x="224" y="91" class="combo tap layer-activator">MVEdit</text>
 </a><text x="224" y="102" class="combo hold">toggle</text>
+</g>
+<g class="combo combopos-2">
+<rect rx="6" ry="6" x="770" y="43" width="28" height="26" class="combo"/>
+<text x="784" y="56" class="combo tap">&amp;ng_off</text>
 </g>
 </g>
 </g>
