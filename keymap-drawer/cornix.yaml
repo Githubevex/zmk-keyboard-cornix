@@ -416,3 +416,6 @@ combos:
   k: {t: Main, h: toggle}
 - p: [15, 16]
   k: {t: MVEdit, h: toggle}
+- p: [18, 19]
+  k: {t: Nagi1, h: toggle}
+  l: [Main]
