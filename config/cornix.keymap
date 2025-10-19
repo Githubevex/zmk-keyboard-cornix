@@ -6,7 +6,9 @@
 
 #include "zmk-helpers/helper.h"
 #include "includes/cornix54.h"
+
 // 2025/10/19 Naginata Added
+
 #include <behaviors/naginata.dtsi>
 
 // tap windows for ctl alt and gui
@@ -152,6 +154,13 @@
             bindings = <&to 3>;
             key-positions = <15 16>;
         };
+
+        combo_ng_on {
+            bindings = <&to 6>;
+            key-positions = <18 19>;
+            timeout-ms = <300>;
+            layers = <0>;
+        };
     };
 
     macros {
@@ -170,20 +179,19 @@
 
             label = "KANATOLY0";
         };
+
         // 2025/10/19 Naginata Added
+
         ng_on: ng_on {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings
-                = <&macro_tap &kp LANGUAGE_1 &kp INTERNATIONAL_4 &to 1>
-                ;
+            bindings = <&macro_tap>, <&kp LANGUAGE_1 &kp INTERNATIONAL_4 &to 6>;
         };
+
         ng_off: ng_off {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings
-                = <&macro_tap &kp LANGUAGE_2 &kp INTERNATIONAL_5 &to 0>
-                ;
+            bindings = <&macro_tap>, <&kp LANGUAGE_2 &kp INTERNATIONAL_5 &to 0>;
         };
     };
 
