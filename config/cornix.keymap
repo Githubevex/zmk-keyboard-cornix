@@ -86,8 +86,8 @@
             //flavor = "balanced";
 
             flavor = "balanced";
-            tapping-term-ms = <HM_TAPPING_TERM_FAST>;
-            quick-tap-ms = <200>;
+            tapping-term-ms = <180>;
+            quick-tap-ms = <150>;
             require-prior-idle-ms = <HM_PRIOR_IDLE>;
             hold-trigger-key-positions = <KEYS_R KEYS_T>;
             hold-trigger-on-release;
@@ -99,8 +99,8 @@
             bindings = <&kp>, <&kp>;
 
             flavor = "balanced";
-            tapping-term-ms = <HM_TAPPING_TERM_FAST>;
-            quick-tap-ms = <200>;
+            tapping-term-ms = <180>;
+            quick-tap-ms = <150>;
             require-prior-idle-ms = <HM_PRIOR_IDLE>;
             hold-trigger-key-positions = <KEYS_L KEYS_T>;
 
@@ -295,10 +295,10 @@
 
         Nagi2 {
             bindings = <
-&trans  &trans  &kp Q     &kp L       &kp COMMA      &kp LEFT_ARROW                  &kp RIGHT     &kp X        &kp N9    &kp N5  &kp N8        &trans
-&trans  &kp P   &kp FSLH  &kp I       &kp J          &kp A                           &kp N7        &kp K        &kp M     &kp Z   &kp NUMBER_2  &trans
-&trans  &trans  &trans    &kp RS(N0)  &kp LS(COMMA)  &kp N           &trans  &trans  &kp NUMBER_6  &kp RS(DOT)  &kp NUHS  &kp N0  &trans        &trans
-&trans  &trans  &trans    &trans      &trans         &trans                          &trans        &trans       &trans    &trans  &trans        &trans
+&trans  &trans  &kp Q   &kp L       &kp COMMA      &kp LEFT_ARROW                  &kp RIGHT     &kp X        &kp N9    &kp N5  &kp N8        &trans
+&trans  &kp P   &kp N   &kp I       &kp J          &kp A                           &kp N7        &kp K        &kp M     &kp Z   &kp NUMBER_2  &trans
+&trans  &trans  &trans  &kp RS(N0)  &kp LS(COMMA)  &kp FSLH        &trans  &trans  &kp NUMBER_6  &kp RS(DOT)  &kp NUHS  &kp N0  &trans        &trans
+&trans  &trans  &trans  &trans      &trans         &trans                          &trans        &trans       &trans    &trans  &trans        &trans
             >;
         };
     };
