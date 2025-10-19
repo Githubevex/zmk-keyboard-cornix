@@ -363,8 +363,8 @@ path.combo {
 <text x="532" y="106" class="combo tap">&amp;ng_on</text>
 </g>
 <g class="combo combopos-4">
-<rect rx="6" ry="6" x="770" y="43" width="28" height="26" class="combo"/>
-<text x="784" y="56" class="combo tap">&amp;ng_off</text>
+<rect rx="6" ry="6" x="266" y="92" width="28" height="26" class="combo"/>
+<text x="280" y="105" class="combo tap">&amp;ng_off</text>
 </g>
 </g>
 </g>
@@ -1651,8 +1651,8 @@ path.combo {
 </a><text x="224" y="102" class="combo hold">toggle</text>
 </g>
 <g class="combo combopos-2">
-<rect rx="6" ry="6" x="770" y="43" width="28" height="26" class="combo"/>
-<text x="784" y="56" class="combo tap">&amp;ng_off</text>
+<rect rx="6" ry="6" x="266" y="92" width="28" height="26" class="combo"/>
+<text x="280" y="105" class="combo tap">&amp;ng_off</text>
 </g>
 </g>
 </g>

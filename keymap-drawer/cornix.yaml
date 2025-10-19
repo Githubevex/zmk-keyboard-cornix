@@ -419,6 +419,6 @@ combos:
 - p: [18, 19]
   k: '&ng_on'
   l: [Main]
-- p: [11, 11]
+- p: [17, 16]
   k: '&ng_off'
   l: [Main, Nagi1]
