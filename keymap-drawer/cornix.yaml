@@ -318,7 +318,7 @@ layers:
   - .
   - R
   - '='
-  - '['
+  - DELETE
   - {t: ▽, type: trans}
   - INT1
   - ''''
@@ -330,7 +330,7 @@ layers:
   - E
   - '4'
   - INT3
-  - ']'
+  - '['
   - LEFT SHIFT
   - '-'
   - V
@@ -344,7 +344,7 @@ layers:
   - Y
   - O
   - ;
-  - {t: ▽, type: trans}
+  - ']'
   - LCTRL
   - LEFT GUI
   - LEFT ALT
@@ -353,10 +353,10 @@ layers:
   - SPACE
   - ENTER
   - {t: SPACE, h: Nagi2}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ''
+  - LEFT
   - {t: Main, h: toggle}
-  - {t: ▽, type: trans}
+  - RIGHT
   Nagi2:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
