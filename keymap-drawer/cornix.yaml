@@ -408,6 +408,57 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  '8':
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - K
+  - D
+  - N
+  - F
+  - Q
+  - J
+  - BSPC
+  - R
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - W
+  - I
+  - S
+  - A
+  - G
+  - Y
+  - E
+  - T
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - Z
+  - X
+  - V
+  - C
+  - ''
+  - ''
+  - L
+  - M
+  - O
+  - ','
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
 combos:
 - p: [28, 29]
   k: RET
