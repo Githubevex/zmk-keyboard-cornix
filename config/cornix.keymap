@@ -168,6 +168,8 @@
         n_ga {
             bindings = <&n_ga>;
             key-positions = <16 19>;
+            layers = <6>;
+            timeout-ms = <150>;
         };
     };
 
