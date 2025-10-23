@@ -169,14 +169,14 @@
             bindings = <&n_ga>;
             key-positions = <16 19>;
             layers = <6>;
-            timeout-ms = <150>;
+            timeout-ms = <180>;
         };
 
         n_de {
             bindings = <&n_de>;
             key-positions = <3 19>;
             layers = <6>;
-            timeout-ms = <150>;
+            timeout-ms = <180>;
         };
     };
 
