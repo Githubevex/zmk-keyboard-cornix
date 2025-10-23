@@ -164,6 +164,11 @@
             bindings = <&ng_off>;
             layers = <0 6>;
         };
+
+        n_ga {
+            bindings = <&none>;
+            key-positions = <16 19>;
+        };
     };
 
     macros {
@@ -195,6 +200,13 @@
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&macro_tap>, <&kp LANGUAGE_2 &kp INTERNATIONAL_5 &to 0>;
+        };
+
+        n_ga: n_ga {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp G &kp A>;
+            label = "N_GA";
         };
     };
 
