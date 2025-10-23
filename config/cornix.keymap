@@ -166,7 +166,7 @@
         };
 
         n_ga {
-            bindings = <&none>;
+            bindings = <&n_ga>;
             key-positions = <16 19>;
         };
     };
