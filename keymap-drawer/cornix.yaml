@@ -31,7 +31,7 @@ layers:
   - C
   - V
   - B
-  - Alt+F4
+  - {t: Nagi1, h: toggle}
   - MUTE
   - N
   - M
