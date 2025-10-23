@@ -358,5 +358,14 @@
 &trans  &trans  &trans  &trans      &trans         &trans                          &trans        &trans       &trans    &trans  &trans        &trans
             >;
         };
+
+        layer_8 {
+            bindings = <
+&trans  &trans  &kp K   &kp D   &kp N   &kp F                 &kp Q   &kp J   &kp BSPC  &kp R      &trans  &trans
+&trans  &trans  &kp W   &kp I   &kp S   &kp A                 &kp G   &kp Y   &kp E     &kp T      &trans  &trans
+&trans  &trans  &kp Z   &kp X   &kp V   &kp C   &none  &none  &kp L   &kp M   &kp O     &kp COMMA  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans                &trans  &trans  &trans    &trans     &trans  &trans
+            >;
+        };
     };
 };
