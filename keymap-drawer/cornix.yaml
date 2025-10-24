@@ -362,7 +362,7 @@ layers:
   - {t: ▽, type: trans}
   - Q
   - L
-  - ','
+  - /
   - LEFT ARROW
   - RIGHT
   - X
@@ -387,12 +387,12 @@ layers:
   - {t: ▽, type: trans}
   - Sft+0
   - Sft+,
-  - /
+  - '#'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '6'
   - Sft+.
-  - '#'
+  - ','
   - '0'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
