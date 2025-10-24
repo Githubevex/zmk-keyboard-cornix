@@ -1679,6 +1679,30 @@ path.combo {
 <rect rx="6" ry="6" x="364" y="79" width="28" height="26" class="combo"/>
 <text x="378" y="92" class="combo tap">&amp;n_do</text>
 </g>
+<g class="combo combopos-7">
+<path d="M350,71 l192,27" class="combo"/>
+<path d="M350,71 l-192,-27" class="combo"/>
+<rect rx="6" ry="6" x="336" y="58" width="28" height="26" class="combo"/>
+<text x="350" y="71" class="combo tap">&amp;n_gi</text>
+</g>
+<g class="combo combopos-8">
+<path d="M378,105 l-107,-6" class="combo"/>
+<path d="M378,105 l107,6" class="combo"/>
+<rect rx="6" ry="6" x="364" y="92" width="28" height="26" class="combo"/>
+<text x="378" y="105" class="combo tap">&amp;n_gu</text>
+</g>
+<g class="combo combopos-9">
+<path d="M322,105 l163,6" class="combo"/>
+<path d="M322,105 l-163,-6" class="combo"/>
+<rect rx="6" ry="6" x="308" y="92" width="28" height="26" class="combo"/>
+<text x="322" y="105" class="combo tap">&amp;n_ge</text>
+</g>
+<g class="combo combopos-10">
+<path d="M378,133 l108,-18" class="combo"/>
+<path d="M378,133 l-108,18" class="combo"/>
+<rect rx="6" ry="6" x="364" y="120" width="28" height="26" class="combo"/>
+<text x="378" y="133" class="combo tap">&amp;n_go</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 2448)" class="layer-Nagi2">

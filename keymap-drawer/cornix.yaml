@@ -434,3 +434,15 @@ combos:
 - p: [19, 15]
   k: '&n_do'
   l: [Nagi1]
+- p: [19, 2]
+  k: '&n_gi'
+  l: [Nagi1]
+- p: [16, 18]
+  k: '&n_gu'
+  l: [Nagi1]
+- p: [18, 14]
+  k: '&n_ge'
+  l: [Nagi1]
+- p: [18, 28]
+  k: '&n_go'
+  l: [Nagi1]
