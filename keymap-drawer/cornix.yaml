@@ -446,7 +446,7 @@ layers:
   - '&ng COMMA'
   - '&ng DOT'
   - '&ng FSLH'
-  - '&kb A'
+  - A
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
