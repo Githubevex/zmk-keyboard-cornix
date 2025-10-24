@@ -426,10 +426,10 @@
 
         Nagi1 {
             bindings = <
-&trans          &trans        &kp G         &kp W   &kp D  &kp LEFT                  &kp RIGHT  &kp BACKSPACE  &kp DOT  &kp R         &kp EQUAL  &kp DELETE
-&trans          &kp INT1      &kp SQT       &kp S   &kp T  &kp LS(Z)                 &kp H      &kp N3         &kp E    &kp NUMBER_4  &kp INT3   &kp LEFT_BRACKET
-&kp LEFT_SHIFT  &kp MINUS     &kp V         &kp F   &kp B  &kp C      &none  &trans  &kp Q      &kp U          &kp Y    &kp O         &kp SEMI   &kp RIGHT_BRACKET
-&kp LCTRL       &kp LEFT_GUI  &kp LEFT_ALT  &trans  &mo 7  &kp SPACE                 &kp ENTER  &lt 7 SPACE    &none    &kp LEFT      &to 0      &kp RIGHT
+&trans          &trans        &kp G         &kp W  &kp D  &kp LEFT                  &kp RIGHT  &kp BACKSPACE  &kp DOT  &kp R         &kp EQUAL  &kp DELETE
+&trans          &kp INT1      &kp SQT       &kp S  &kp T  &kp LS(Z)                 &kp H      &kp N3         &kp E    &kp NUMBER_4  &kp INT3   &kp LEFT_BRACKET
+&kp LEFT_SHIFT  &kp MINUS     &kp V         &kp F  &kp B  &kp C      &none  &trans  &kp Q      &kp U          &kp Y    &kp O         &kp SEMI   &kp RIGHT_BRACKET
+&kp LCTRL       &kp LEFT_GUI  &kp LEFT_ALT  &mo 2  &mo 7  &kp SPACE                 &kp ENTER  &lt 7 SPACE    &none    &kp LEFT      &to 0      &kp RIGHT
             >;
         };
 
