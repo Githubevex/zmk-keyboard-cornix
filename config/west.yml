@@ -31,6 +31,5 @@ manifest:
       remote: eswai
       revision: main
       clone-depth: 1
-      repo-path: modules/zmk-naginata
   self:
     path: config
