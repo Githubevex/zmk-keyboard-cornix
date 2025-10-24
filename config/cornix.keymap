@@ -172,11 +172,25 @@
             timeout-ms = <180>;
         };
 
+        n_da {
+            bindings = <&n_da>;
+            key-positions = <32 16>;
+            layers = <6>;
+            timeout-ms = <180>;
+        };
+
         n_de {
             bindings = <&n_de>;
             key-positions = <3 19>;
-            layers = <6>;
             timeout-ms = <180>;
+            layers = <6>;
+        };
+
+        n_do {
+            bindings = <&n_do>;
+            key-positions = <19 15>;
+            timeout-ms = <180>;
+            layers = <6>;
         };
     };
 
@@ -218,11 +232,25 @@
             label = "N_GA";
         };
 
-        n_de: n_de {
+        n_da: n_de {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp D &kp LEFT_BRACKET>;
+            label = "N_DE";
+        };
+
+        n_de: n_da {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&kp W &kp LEFT_BRACKET>;
-            label = "N_DE";
+            label = "N_DA";
+        };
+
+        n_do: n_do {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp S &kp LEFT_BRACKET>;
+            label = "N_DO";
         };
     };
 
