@@ -185,7 +185,7 @@
         Naginata: Naginata {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp INT_KANA>, <&macro_wait_time 20>, <&to 6>;
+            bindings = <&kp INT_KANA>, <&macro_wait_time 20>, <&to 8>;
 
             label = "NAGINATA";
         };
