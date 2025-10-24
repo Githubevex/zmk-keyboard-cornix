@@ -410,52 +410,52 @@ layers:
   - {t: ▽, type: trans}
   naginata:
   - TAB
-  - Q
-  - W
-  - E
-  - R
-  - T
-  - Y
-  - U
-  - I
-  - O
-  - P
+  - '&ng Q'
+  - '&ng W'
+  - '&ng E'
+  - '&ng R'
+  - '&ng T'
+  - '&ng Y'
+  - '&ng U'
+  - '&ng I'
+  - '&ng O'
+  - '&ng P'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - A
-  - S
-  - D
-  - F
-  - G
-  - H
-  - J
-  - K
-  - L
-  - ;
+  - '&ng A'
+  - '&ng S'
+  - '&ng D'
+  - '&ng F'
+  - '&ng G'
+  - '&ng H'
+  - '&ng J'
+  - '&ng K'
+  - '&ng L'
+  - '&ng SEMI'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - Z
-  - X
-  - C
-  - V
-  - B
-  - SPACE
-  - SPACE
-  - N
-  - M
-  - ','
-  - .
-  - /
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '&ng Z'
+  - '&ng X'
+  - '&ng C'
+  - '&ng V'
+  - '&ng B'
+  - '&ng SPACE'
+  - '&ng SPACE'
+  - '&ng N'
+  - '&ng M'
+  - '&ng COMMA'
+  - '&ng DOT'
+  - '&ng FSLH'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LSHIFT
+  - Function
+  - '&ng SPACE'
+  - '&ng ENTER'
+  - MVEdit
+  - RCTRL
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
