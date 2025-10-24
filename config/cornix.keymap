@@ -192,6 +192,34 @@
             timeout-ms = <180>;
             layers = <6>;
         };
+
+        n_gi {
+            bindings = <&n_gi>;
+            key-positions = <19 2>;
+            timeout-ms = <180>;
+            layers = <6>;
+        };
+
+        n_gu {
+            bindings = <&n_gu>;
+            key-positions = <16 18>;
+            timeout-ms = <180>;
+            layers = <6>;
+        };
+
+        n_ge {
+            bindings = <&n_ge>;
+            key-positions = <18 14>;
+            timeout-ms = <180>;
+            layers = <6>;
+        };
+
+        n_go {
+            bindings = <&n_go>;
+            key-positions = <18 28>;
+            timeout-ms = <180>;
+            layers = <6>;
+        };
     };
 
     macros {
@@ -235,7 +263,7 @@
         n_da: n_de {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp D &kp LEFT_BRACKET>;
+            bindings = <&kp Q &kp LEFT_BRACKET>;
             label = "N_DE";
         };
 
@@ -251,6 +279,34 @@
             #binding-cells = <0>;
             bindings = <&kp S &kp LEFT_BRACKET>;
             label = "N_DO";
+        };
+
+        n_gi: n_gi {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp G &kp LEFT_BRACKET>;
+            label = "N_GI";
+        };
+
+        n_gu: n_gu {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp H &kp LEFT_BRACKET>;
+            label = "N_GU";
+        };
+
+        n_ge: n_ge {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp SEMI &kp LEFT_BRACKET>;
+            label = "N_GE";
+        };
+
+        n_go: n_go {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp B &kp LEFT_BRACKET>;
+            label = "N_GO";
         };
     };
 
