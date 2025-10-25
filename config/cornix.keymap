@@ -360,10 +360,10 @@
             label = "N_ZO";
         };
 
-        n_de: n_da {
+        n_da: n_da {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp W &kp LEFT_BRACKET>;
+            bindings = <&kp Q &kp LEFT_BRACKET>;
             label = "N_DA";
         };
 
@@ -381,7 +381,7 @@
             label = "N_DU";
         };
 
-        n_da: n_de {
+        n_de: n_de {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&kp Q &kp LEFT_BRACKET>;
