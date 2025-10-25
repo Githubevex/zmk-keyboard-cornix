@@ -353,7 +353,7 @@
         n_zu: n_zu {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp Z &kp LEFT_BRACKET>;
+            bindings = <&kp R &kp LEFT_BRACKET>;
             label = "N_ZU";
         };
 
@@ -369,6 +369,20 @@
             #binding-cells = <0>;
             bindings = <&kp C &kp LEFT_BRACKET>;
             label = "N_ZO";
+        };
+
+        n_di: n_di {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp A &kp LEFT_BRACKET>;
+            label = "N_DI";
+        };
+
+        n_du: n_du {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp Z &kp LEFT_BRACKET>;
+            label = "N_DU";
         };
     };
 
