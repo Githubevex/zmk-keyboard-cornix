@@ -241,7 +241,7 @@
 
         n_du {
             bindings = <&n_di>;
-            key-positions = <19 5>;
+            key-positions = <16 21>;
         };
 
         n_de {
