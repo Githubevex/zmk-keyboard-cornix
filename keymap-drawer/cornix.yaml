@@ -17,7 +17,7 @@ layers:
   - A
   - S
   - {t: D, h: LSHFT}
-  - {t: F, h: Mouse}
+  - F
   - G
   - H
   - J
@@ -31,7 +31,7 @@ layers:
   - C
   - V
   - B
-  - {t: Nagi1, h: toggle}
+  - ''
   - MUTE
   - N
   - M
@@ -44,7 +44,7 @@ layers:
   - LEFT ALT
   - Function
   - Second
-  - SPACE
+  - {t: SPACE, h: Mouse}
   - {t: ENTER, h: KeyPad}
   - SPACE
   - {t: '`', h: RIGHT SHIFT}
@@ -221,7 +221,7 @@ layers:
   - ''
   - ''
   - ESC
-  - {type: held}
+  - ''
   - BT CLR ALL
   - ''
   - '&mmv MOVE_LEFT'
@@ -248,7 +248,7 @@ layers:
   - ''
   - ''
   - ''
-  - ''
+  - {type: held}
   - ''
   - ''
   - '4'
