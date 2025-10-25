@@ -220,6 +220,33 @@
             timeout-ms = <180>;
             layers = <6>;
         };
+
+        n_za {
+            bindings = <&n_za>;
+            key-positions = <16 7>;
+            timeout-ms = <180>;
+            layers = <6>;
+        };
+
+        n_ji {
+            bindings = <&n_ji>;
+            key-positions = <4 19>;
+        };
+
+        n_zu {
+            bindings = <&n_zu>;
+            key-positions = <16 9>;
+        };
+
+        n_ze {
+            bindings = <&n_ze>;
+            key-positions = <13 19>;
+        };
+
+        n_zo {
+            bindings = <&n_zo>;
+            key-positions = <29 19>;
+        };
     };
 
     macros {
@@ -307,6 +334,41 @@
             #binding-cells = <0>;
             bindings = <&kp B &kp LEFT_BRACKET>;
             label = "N_GO";
+        };
+
+        n_za: n_za {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp X &kp LEFT_BRACKET>;
+            label = "N_ZA";
+        };
+
+        n_ji: n_ji {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp D &kp LEFT_BRACKET>;
+            label = "N_JI";
+        };
+
+        n_zu: n_zu {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp Z &kp LEFT_BRACKET>;
+            label = "N_ZU";
+        };
+
+        n_ze: n_ze {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp P &kp LEFT_BRACKET>;
+            label = "N_ZE";
+        };
+
+        n_zo: n_zo {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp C &kp LEFT_BRACKET>;
+            label = "N_ZO";
         };
     };
 
