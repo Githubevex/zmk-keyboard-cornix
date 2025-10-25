@@ -247,6 +247,16 @@
             bindings = <&n_zo>;
             key-positions = <29 19>;
         };
+
+        n_di {
+            bindings = <&n_di>;
+            key-positions = <19 17>;
+        };
+
+        n_du {
+            bindings = <&n_di>;
+            key-positions = <19 5>;
+        };
     };
 
     macros {
