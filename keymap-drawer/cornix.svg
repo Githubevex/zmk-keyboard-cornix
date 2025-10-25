@@ -1876,88 +1876,88 @@ path.combo {
 <text x="406" y="99" class="combo tap">&amp;n_ga</text>
 </g>
 <g class="combo combopos-4">
-<path d="M378,134 l108,31" class="combo"/>
-<path d="M378,134 l-108,-31" class="combo"/>
-<rect rx="6" ry="6" x="364" y="121" width="28" height="26" class="combo"/>
-<text x="378" y="134" class="combo tap">&amp;n_da</text>
-</g>
-<g class="combo combopos-5">
-<path d="M378,64 l-164,-33" class="combo"/>
-<path d="M378,64 l164,33" class="combo"/>
-<rect rx="6" ry="6" x="364" y="51" width="28" height="26" class="combo"/>
-<text x="378" y="64" class="combo tap">&amp;n_de</text>
-</g>
-<g class="combo combopos-6">
-<path d="M378,92 l163,8" class="combo"/>
-<path d="M378,92 l-163,-8" class="combo"/>
-<rect rx="6" ry="6" x="364" y="79" width="28" height="26" class="combo"/>
-<text x="378" y="92" class="combo tap">&amp;n_do</text>
-</g>
-<g class="combo combopos-7">
 <path d="M350,71 l192,27" class="combo"/>
 <path d="M350,71 l-192,-27" class="combo"/>
 <rect rx="6" ry="6" x="336" y="58" width="28" height="26" class="combo"/>
 <text x="350" y="71" class="combo tap">&amp;n_gi</text>
 </g>
-<g class="combo combopos-8">
+<g class="combo combopos-5">
 <path d="M378,105 l-107,-6" class="combo"/>
 <path d="M378,105 l107,6" class="combo"/>
 <rect rx="6" ry="6" x="364" y="92" width="28" height="26" class="combo"/>
 <text x="378" y="105" class="combo tap">&amp;n_gu</text>
 </g>
-<g class="combo combopos-9">
+<g class="combo combopos-6">
 <path d="M322,105 l163,6" class="combo"/>
 <path d="M322,105 l-163,-6" class="combo"/>
 <rect rx="6" ry="6" x="308" y="92" width="28" height="26" class="combo"/>
 <text x="322" y="105" class="combo tap">&amp;n_ge</text>
 </g>
-<g class="combo combopos-10">
+<g class="combo combopos-7">
 <path d="M378,133 l108,-18" class="combo"/>
 <path d="M378,133 l-108,18" class="combo"/>
 <rect rx="6" ry="6" x="364" y="120" width="28" height="26" class="combo"/>
 <text x="378" y="133" class="combo tap">&amp;n_go</text>
 </g>
-<g class="combo combopos-11">
+<g class="combo combopos-8">
 <path d="M406,71 l-136,23" class="combo"/>
 <path d="M406,71 l136,-23" class="combo"/>
 <rect rx="6" ry="6" x="392" y="58" width="28" height="26" class="combo"/>
 <text x="406" y="71" class="combo tap">&amp;n_za</text>
 </g>
-<g class="combo combopos-12">
+<g class="combo combopos-9">
 <path d="M406,71 l-136,-26" class="combo"/>
 <path d="M406,71 l136,26" class="combo"/>
 <rect rx="6" ry="6" x="392" y="58" width="28" height="26" class="combo"/>
 <text x="406" y="71" class="combo tap">&amp;n_ji</text>
 </g>
-<g class="combo combopos-13">
+<g class="combo combopos-10">
 <path d="M462,72 l-191,23" class="combo"/>
 <path d="M462,72 l191,-23" class="combo"/>
 <rect rx="6" ry="6" x="448" y="59" width="28" height="26" class="combo"/>
 <text x="462" y="72" class="combo tap">&amp;n_zu</text>
 </g>
-<g class="combo combopos-14">
+<g class="combo combopos-11">
 <path d="M322,106 l-219,5" class="combo"/>
 <path d="M322,106 l219,-5" class="combo"/>
 <rect rx="6" ry="6" x="308" y="93" width="28" height="26" class="combo"/>
 <text x="322" y="106" class="combo tap">&amp;n_ze</text>
 </g>
-<g class="combo combopos-15">
+<g class="combo combopos-12">
 <path d="M434,136 l-108,30" class="combo"/>
 <path d="M434,136 l108,-30" class="combo"/>
 <rect rx="6" ry="6" x="420" y="123" width="28" height="26" class="combo"/>
 <text x="434" y="136" class="combo tap">&amp;n_zo</text>
 </g>
-<g class="combo combopos-16">
+<g class="combo combopos-13">
+<path d="M378,134 l108,31" class="combo"/>
+<path d="M378,134 l-108,-31" class="combo"/>
+<rect rx="6" ry="6" x="364" y="121" width="28" height="26" class="combo"/>
+<text x="378" y="134" class="combo tap">&amp;n_da</text>
+</g>
+<g class="combo combopos-14">
 <path d="M434,106 l107,-5" class="combo"/>
 <path d="M434,106 l-107,5" class="combo"/>
 <rect rx="6" ry="6" x="420" y="93" width="28" height="26" class="combo"/>
 <text x="434" y="106" class="combo tap">&amp;n_di</text>
 </g>
-<g class="combo combopos-17">
+<g class="combo combopos-15">
 <path d="M434,78 l108,19" class="combo"/>
 <path d="M434,78 l-108,-19" class="combo"/>
 <rect rx="6" ry="6" x="420" y="65" width="28" height="26" class="combo"/>
 <text x="434" y="78" class="combo tap">&amp;n_di</text>
+</g>
+<g class="combo combopos-16">
+<path d="M378,64 l-164,-33" class="combo"/>
+<path d="M378,64 l164,33" class="combo"/>
+<rect rx="6" ry="6" x="364" y="51" width="28" height="26" class="combo"/>
+<text x="378" y="64" class="combo tap">&amp;n_de</text>
+</g>
+<g class="combo combopos-17">
+<path d="M378,92 l163,8" class="combo"/>
+<path d="M378,92 l-163,-8" class="combo"/>
+<rect rx="6" ry="6" x="364" y="79" width="28" height="26" class="combo"/>
+<text x="378" y="92" class="combo tap">&amp;n_do</text>
 </g>
 </g>
 </g>

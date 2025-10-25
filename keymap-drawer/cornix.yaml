@@ -425,15 +425,6 @@ combos:
 - p: [16, 19]
   k: '&n_ga'
   l: [Nagi1]
-- p: [32, 16]
-  k: '&n_da'
-  l: [Nagi1]
-- p: [3, 19]
-  k: '&n_de'
-  l: [Nagi1]
-- p: [19, 15]
-  k: '&n_do'
-  l: [Nagi1]
 - p: [19, 2]
   k: '&n_gi'
   l: [Nagi1]
@@ -457,7 +448,16 @@ combos:
   k: '&n_ze'
 - p: [29, 19]
   k: '&n_zo'
+- p: [32, 16]
+  k: '&n_da'
+  l: [Nagi1]
 - p: [19, 17]
   k: '&n_di'
 - p: [19, 5]
   k: '&n_di'
+- p: [3, 19]
+  k: '&n_de'
+  l: [Nagi1]
+- p: [19, 15]
+  k: '&n_do'
+  l: [Nagi1]
