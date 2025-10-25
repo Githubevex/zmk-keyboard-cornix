@@ -172,27 +172,6 @@
             timeout-ms = <180>;
         };
 
-        n_da {
-            bindings = <&n_da>;
-            key-positions = <32 16>;
-            layers = <6>;
-            timeout-ms = <180>;
-        };
-
-        n_de {
-            bindings = <&n_de>;
-            key-positions = <3 19>;
-            timeout-ms = <180>;
-            layers = <6>;
-        };
-
-        n_do {
-            bindings = <&n_do>;
-            key-positions = <19 15>;
-            timeout-ms = <180>;
-            layers = <6>;
-        };
-
         n_gi {
             bindings = <&n_gi>;
             key-positions = <19 2>;
@@ -248,6 +227,13 @@
             key-positions = <29 19>;
         };
 
+        n_da {
+            bindings = <&n_da>;
+            key-positions = <32 16>;
+            layers = <6>;
+            timeout-ms = <180>;
+        };
+
         n_di {
             bindings = <&n_di>;
             key-positions = <19 17>;
@@ -256,6 +242,20 @@
         n_du {
             bindings = <&n_di>;
             key-positions = <19 5>;
+        };
+
+        n_de {
+            bindings = <&n_de>;
+            key-positions = <3 19>;
+            timeout-ms = <180>;
+            layers = <6>;
+        };
+
+        n_do {
+            bindings = <&n_do>;
+            key-positions = <19 15>;
+            timeout-ms = <180>;
+            layers = <6>;
         };
     };
 
@@ -295,27 +295,6 @@
             #binding-cells = <0>;
             bindings = <&kp T &kp LEFT_BRACKET>;
             label = "N_GA";
-        };
-
-        n_da: n_de {
-            compatible = "zmk,behavior-macro";
-            #binding-cells = <0>;
-            bindings = <&kp Q &kp LEFT_BRACKET>;
-            label = "N_DE";
-        };
-
-        n_de: n_da {
-            compatible = "zmk,behavior-macro";
-            #binding-cells = <0>;
-            bindings = <&kp W &kp LEFT_BRACKET>;
-            label = "N_DA";
-        };
-
-        n_do: n_do {
-            compatible = "zmk,behavior-macro";
-            #binding-cells = <0>;
-            bindings = <&kp S &kp LEFT_BRACKET>;
-            label = "N_DO";
         };
 
         n_gi: n_gi {
@@ -381,6 +360,13 @@
             label = "N_ZO";
         };
 
+        n_de: n_da {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp W &kp LEFT_BRACKET>;
+            label = "N_DA";
+        };
+
         n_di: n_di {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
@@ -393,6 +379,20 @@
             #binding-cells = <0>;
             bindings = <&kp Z &kp LEFT_BRACKET>;
             label = "N_DU";
+        };
+
+        n_da: n_de {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp Q &kp LEFT_BRACKET>;
+            label = "N_DE";
+        };
+
+        n_do: n_do {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp S &kp LEFT_BRACKET>;
+            label = "N_DO";
         };
     };
 
