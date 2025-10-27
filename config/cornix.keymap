@@ -384,7 +384,7 @@
         n_de: n_de {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp Q &kp LEFT_BRACKET>;
+            bindings = <&kp W &kp LEFT_BRACKET>;
             label = "N_DE";
         };
 
