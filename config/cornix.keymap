@@ -181,21 +181,21 @@
 
         n_gu {
             bindings = <&n_gu>;
-            key-positions = <16 18>;
+            key-positions = <16 19>;
             timeout-ms = <180>;
             layers = <6>;
         };
 
         n_ge {
             bindings = <&n_ge>;
-            key-positions = <18 14>;
+            key-positions = <14 19>;
             timeout-ms = <180>;
             layers = <6>;
         };
 
         n_go {
             bindings = <&n_go>;
-            key-positions = <18 28>;
+            key-positions = <28 19>;
             timeout-ms = <180>;
             layers = <6>;
         };
