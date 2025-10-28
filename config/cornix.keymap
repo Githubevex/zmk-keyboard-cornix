@@ -210,21 +210,29 @@
         n_ji {
             bindings = <&n_ji>;
             key-positions = <4 19>;
+            timeout-ms = <180>;
+            layers = <6>;
         };
 
         n_zu {
             bindings = <&n_zu>;
             key-positions = <16 9>;
+            timeout-ms = <180>;
+            layers = <6>;
         };
 
         n_ze {
             bindings = <&n_ze>;
             key-positions = <13 19>;
+            timeout-ms = <180>;
+            layers = <6>;
         };
 
         n_zo {
             bindings = <&n_zo>;
             key-positions = <29 19>;
+            timeout-ms = <180>;
+            layers = <6>;
         };
 
         n_da {
@@ -237,11 +245,15 @@
         n_di {
             bindings = <&n_di>;
             key-positions = <19 17>;
+            timeout-ms = <180>;
+            layers = <6>;
         };
 
         n_du {
             bindings = <&n_di>;
             key-positions = <16 21>;
+            timeout-ms = <180>;
+            layers = <6>;
         };
 
         n_de {
