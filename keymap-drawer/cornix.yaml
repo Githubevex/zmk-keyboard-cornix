@@ -99,7 +99,7 @@ layers:
   - BACKSPACE
   - DEL
   - INT MUHENKAN
-  - ''
+  - Ctl+Alt+B
   - ''
   - ''
   Function:
