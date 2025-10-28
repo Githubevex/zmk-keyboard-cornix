@@ -442,19 +442,25 @@ combos:
   l: [Nagi1]
 - p: [4, 19]
   k: '&n_ji'
+  l: [Nagi1]
 - p: [16, 9]
   k: '&n_zu'
+  l: [Nagi1]
 - p: [13, 19]
   k: '&n_ze'
+  l: [Nagi1]
 - p: [29, 19]
   k: '&n_zo'
+  l: [Nagi1]
 - p: [32, 16]
   k: '&n_da'
   l: [Nagi1]
 - p: [19, 17]
   k: '&n_di'
+  l: [Nagi1]
 - p: [16, 21]
   k: '&n_di'
+  l: [Nagi1]
 - p: [3, 19]
   k: '&n_de'
   l: [Nagi1]
