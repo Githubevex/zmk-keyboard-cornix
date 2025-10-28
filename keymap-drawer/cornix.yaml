@@ -99,7 +99,7 @@ layers:
   - BACKSPACE
   - DEL
   - INT MUHENKAN
-  - Ctl+Alt+B
+  - ''
   - ''
   - ''
   Function:
@@ -303,7 +303,7 @@ layers:
   - {type: held}
   - ''
   - ''
-  - ''
+  - Ctl+Alt+B
   - ''
   - ''
   Nagi1:
