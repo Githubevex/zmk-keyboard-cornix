@@ -1772,6 +1772,36 @@ path.combo {
 <rect rx="6" ry="6" x="364" y="79" width="28" height="26" class="combo"/>
 <text x="378" y="92" class="combo tap">&amp;n_do</text>
 </g>
+<g class="combo combopos-18">
+<path d="M322,78 l-219,-21" class="combo"/>
+<path d="M322,78 l219,21" class="combo"/>
+<rect rx="6" ry="6" x="308" y="65" width="28" height="26" class="combo"/>
+<text x="322" y="78" class="combo tap">Sft+3</text>
+</g>
+<g class="combo combopos-19">
+<path d="M350,70 l-247,-13" class="combo"/>
+<path d="M350,70 l247,13" class="combo"/>
+<rect rx="6" ry="6" x="336" y="57" width="28" height="26" class="combo"/>
+<text x="350" y="70" class="combo tap">Sft+E</text>
+</g>
+<g class="combo combopos-20">
+<path d="M378,79 l-275,-22" class="combo"/>
+<path d="M378,79 l275,22" class="combo"/>
+<rect rx="6" ry="6" x="364" y="66" width="28" height="26" class="combo"/>
+<text x="378" y="79" class="combo tap">Sft+4</text>
+</g>
+<g class="combo combopos-21">
+<path d="M378,51 l-275,4" class="combo"/>
+<path d="M378,51 l275,-4" class="combo"/>
+<rect rx="6" ry="6" x="364" y="38" width="28" height="26" class="combo"/>
+<text x="378" y="51" class="combo tap">Sft+5</text>
+</g>
+<g class="combo combopos-22">
+<path d="M294,113 l-192,-52" class="combo"/>
+<path d="M294,113 l192,52" class="combo"/>
+<rect rx="6" ry="6" x="280" y="100" width="28" height="26" class="combo"/>
+<text x="294" y="113" class="combo tap">Sft+6</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 2448)" class="layer-Nagi2">

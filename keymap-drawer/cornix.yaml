@@ -467,3 +467,18 @@ combos:
 - p: [19, 15]
   k: '&n_do'
   l: [Nagi1]
+- p: [1, 19]
+  k: Sft+3
+  l: [Nagi1]
+- p: [1, 20]
+  k: Sft+E
+  l: [Nagi1]
+- p: [1, 21]
+  k: Sft+4
+  l: [Nagi1]
+- p: [1, 9]
+  k: Sft+5
+  l: [Nagi1]
+- p: [1, 32]
+  k: Sft+6
+  l: [Nagi1]
