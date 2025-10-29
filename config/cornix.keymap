@@ -271,6 +271,41 @@
             timeout-ms = <180>;
             layers = <6>;
         };
+
+        n_xa {
+            bindings = <&kp LS(NUMBER_3)>;
+            key-positions = <1 19>;
+            timeout-ms = <180>;
+            layers = <6>;
+        };
+
+        n_xi {
+            bindings = <&kp LS(E)>;
+            key-positions = <1 20>;
+            timeout-ms = <180>;
+            layers = <6>;
+        };
+
+        n_xu {
+            bindings = <&kp LS(N4)>;
+            key-positions = <1 21>;
+            timeout-ms = <180>;
+            layers = <6>;
+        };
+
+        n_xe {
+            bindings = <&kp LS(NUMBER_5)>;
+            key-positions = <1 9>;
+            timeout-ms = <180>;
+            layers = <6>;
+        };
+
+        x_xo {
+            bindings = <&kp LS(N6)>;
+            key-positions = <1 32>;
+            timeout-ms = <180>;
+            layers = <6>;
+        };
     };
 
     macros {
