@@ -482,3 +482,12 @@ combos:
 - p: [1, 32]
   k: Sft+6
   l: [Nagi1]
+- p: [1, 18]
+  k: Sft+7
+  l: [Nagi1]
+- p: [1, 10]
+  k: Sft+8
+  l: [Nagi1]
+- p: [1, 8]
+  k: Sft+8
+  l: [Nagi1]

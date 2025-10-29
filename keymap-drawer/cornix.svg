@@ -1802,6 +1802,24 @@ path.combo {
 <rect rx="6" ry="6" x="280" y="100" width="28" height="26" class="combo"/>
 <text x="294" y="113" class="combo tap">Sft+6</text>
 </g>
+<g class="combo combopos-23">
+<path d="M294,84 l-191,-26" class="combo"/>
+<path d="M294,84 l191,26" class="combo"/>
+<rect rx="6" ry="6" x="280" y="71" width="28" height="26" class="combo"/>
+<text x="294" y="84" class="combo tap">Sft+7</text>
+</g>
+<g class="combo combopos-24">
+<path d="M406,56 l-303,0" class="combo"/>
+<path d="M406,56 l303,0" class="combo"/>
+<rect rx="6" ry="6" x="392" y="43" width="28" height="26" class="combo"/>
+<text x="406" y="56" class="combo tap">Sft+8</text>
+</g>
+<g class="combo combopos-25">
+<path d="M350,42 l-247,13" class="combo"/>
+<path d="M350,42 l247,-13" class="combo"/>
+<rect rx="6" ry="6" x="336" y="29" width="28" height="26" class="combo"/>
+<text x="350" y="42" class="combo tap">Sft+8</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 2448)" class="layer-Nagi2">
