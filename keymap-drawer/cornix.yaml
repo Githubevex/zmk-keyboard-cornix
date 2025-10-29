@@ -307,8 +307,8 @@ layers:
   - ''
   - ''
   Nagi1:
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - TAB
+  - ''
   - G
   - W
   - D
@@ -319,7 +319,7 @@ layers:
   - R
   - '='
   - DELETE
-  - {t: ▽, type: trans}
+  - CAPSLOCK
   - INT1
   - ''''
   - S
