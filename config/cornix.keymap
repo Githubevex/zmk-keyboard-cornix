@@ -306,6 +306,27 @@
             timeout-ms = <180>;
             layers = <6>;
         };
+
+        n_xya {
+            bindings = <&kp LS(NUMBER_7)>;
+            key-positions = <1 18>;
+            timeout-ms = <180>;
+            layers = <6>;
+        };
+
+        n_xyu {
+            bindings = <&kp LS(N8)>;
+            key-positions = <1 10>;
+            timeout-ms = <180>;
+            layers = <6>;
+        };
+
+        n_xyo {
+            bindings = <&kp LS(N8)>;
+            key-positions = <1 8>;
+            timeout-ms = <180>;
+            layers = <6>;
+        };
     };
 
     macros {
