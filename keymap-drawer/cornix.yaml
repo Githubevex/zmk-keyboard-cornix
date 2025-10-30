@@ -412,9 +412,9 @@ combos:
 - p: [28, 29]
   k: RET
   l: [Main, Second]
-- p: [4, 3, 2]
+- p: [4, 2]
   k: {t: Main, h: toggle}
-- p: [15, 16, 14]
+- p: [16, 14]
   k: {t: MVEdit, h: toggle}
 - p: [18, 19]
   k: '&ng_on'
