@@ -143,13 +143,13 @@
 
         Main {
             bindings = <&to 0>;
-            key-positions = <4 3 2>;
+            key-positions = <4 2>;
             timeout-ms = <200>;
         };
 
         MVEdit {
             bindings = <&to 3>;
-            key-positions = <15 16 14>;
+            key-positions = <16 14>;
             timeout-ms = <200>;
         };
 
